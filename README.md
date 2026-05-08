@@ -18,7 +18,7 @@ Agent behaviour is governed by [claude-rules](https://github.com/OctavianTocan/c
 
 - **[AI Nexus](https://github.com/OctavianTocan/ai-nexus)**: my provider-agnostic agent loop and full-stack AI workspace. Native Claude Agent SDK and Gemini support, in-process MCP tool bridges, per-agent permission gating, and a chat router that owns tool composition so providers stay tool-agnostic (a CI gate enforces it). I built it because I was tired of debugging LangChain wrappers at 2am and wanted code I'd written myself.
 
-- **[TwinMind](https://twinmind.com/)** *(ThirdEar, Lead Web Engineer)*: an AI meeting assistant for iOS, web, and Chrome. I led web full-stack and was the sole engineer on the React Native brownfield repo, shipping the auth flows, the transcript pipeline, the Daily Digest, the Todo page, and the My Mind dashboard end-to-end. Cut the React Native CI from 45 minutes to 8 with one Gradle-cache change. Memory page load improved 43x after refactoring around 25% of the codebase.
+- **[TwinMind](https://twinmind.com/)** *(ThirdEar, Lead Web Engineer)*: an AI meeting assistant for iOS, web, and Chrome. I built their entire React Native app from scratch as the sole engineer on it: a brownfield Expo integration that ports core TwinMind views into the existing native iOS and Android apps as a shared module, with the auth bridge, the transcript pipeline, the Daily Digest page, the Todo page, and the My Mind dashboard all shipped end-to-end, plus 591 tests, Maestro E2E, and a self-hosted Mac Mini iOS runner. On the web side I led full-stack and rebuilt around a quarter of the codebase, with memory page loads ending up 43x faster.
 
 ## A few of my public repos
 
