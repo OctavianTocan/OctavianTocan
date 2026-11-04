@@ -1,34 +1,22 @@
-                 #SSSSSSSSSS#                       octavian@github
-             %%S??%%??*%*??%%%S##                   ------------------------------------------------------------
-          S?*++*S#%%%S###@S%SSS#S##                 Role............AI Agent Architect / Full-Stack Engineer
-        %++**%%S@S?#@@####S#@@@@@#SS#               Base............Zaragoza, Spain · EU · EN / ES / RO
-       #;??*%##@##@@#SSSS#@@@#@@@@@#S#              Uptime..........10+ years shipping production software
-       +?SSS%S##S###%SS#@@@@@@@@@@@@@@@             Kernel..........small, sharp systems around the model
-      %*SS#@@@@@@@@@@##@@@@@@@@@@@@@@@@             Focus...........cheap hardware · unattended runs
-      S%?#@@#@##@@####@@@@@#S%%??#@@@@@             Stack...........TypeScript · Python · C++ · React · Expo
-      SSS@S;:++;;;;;;+?%%?+;::;::+S@@@@             Models..........Claude · Gemini · Codex · xAI
-       %S%.       ..,,,,,,,,,:::::+#@@@             Host............OpenClaw ×2 · Telegram · Hermes fallback
-       %S?    ......,,,:;+?%%%%%?*;*@@@             
-        SS.,;*?%S%?+;:;*%S##SS%%S%+;#@#?            Runtime
-        *S.:*??%SS%*;,:+?%SS##SS%*+:?@?*            Services........21 cron jobs · unattended agent runs
-       %;%..;+?%S%?+, .:****??*+;:::;#S+            Memory..........Hindsight + LCM + custom routing
-        **,   ,:;:,....;;+;::::::::::++*            Promotion.......dream-loop · conflict-checked durable facts
-         ;...     .    .:;++::::::;;:;;%            Tribunal........Claude + Codex + Gemini → judge
-         * .   ..;:.,:;+?***;;;;;;;;;?              Policy..........227 rules across 22 categories
-          ?....,:, ,%SS#@@S?++;++;++;               
-           * .::,:;*S@#%#@@@@@S*++++*               Projects
-            +.,,?SSS%????%%%%??*+**+                Main............Pawrrtal · provider-agnostic AI workspace
-             ?,,;;::;+?%??**+++****+                Plugins.........Notion 18 tools/56 tests · Todoist 12 tools
-               ,;:::;+*%%?*+++*???*+?@              ................scoped auth · zero-LLM Telegram menus
-              +.,;+::::;+*++?%S%?*++;S##@           Public..........cloakbrowser · raft · Ralph · retro-loop
-              ; .,+?%%%%%%S#@#S?*++++#@@@@@#@       ................UE5 Blueprint docs
-               , .,;+?%SS##S%?**++**S@@@@@@@#@@     Proof
-                ;.,::;;+******++**?S@@@@@@@@@@@@    First ship.......$35,000 in its first month · age 16
-                 S*;::;;;;+++++??S#@@@@@@@@@@@@@    Infima..........co-founded at 20 · 4.8★ / 459 reviews
-                     %?******?%S#@@@@@@@@@@@@@@@    Pawrrtal........~728 commits · 217 PRs
-                       @@@@@@@@@@@@@@@@@@@@@@@@@    TwinMind........591 tests · 43× faster memory pages
-                        @@@@@@@@@@@@@@@@@@@@@@@@    
-                             @@@@@@@@@@@@@@@        Principles......linting is infrastructure
-                             @@@@@@@@@@@            ................thin harness, fat skills
-                                                    Contact.........contact@octaviantocan.com
-                                                    Status..........Zaragoza, late hours.
+### Octavian Tocan
+
+**Product & Design Engineer** · Zaragoza, Spain · remote
+
+I design interfaces and build them, from the first interaction sketch to shipped software. Most recently I was Senior Product Engineer at [Ojin](https://ojin.ai/), where I built the editor customers use to set up real-time AI agents, and the 50-component design system behind it.
+
+**Work you can click through**
+
+- [**Design books**](https://designs.magicpath.ai/v1/kindly-pond-9369): interactive design files for my recent apps.
+- **Reflect**, a local-first work journal built on Dayflow, with a clearer timeline, daily recaps and reflection. [Try the workspace](https://designs.magicpath.ai/v1/joyfully-minute-7833)
+- [**Pully**](https://github.com/OctavianTocan/Pully), my mobile client for pulls.review: a native Android app and a personal inbox for reviewing pull requests. [Try the inbox](https://designs.magicpath.ai/v1/boldly-village-2720)
+- [**Agentic Inbox**](https://github.com/OctavianTocan/agentic-inbox), a shared inbox where an AI agent triages mail and pauses sensitive items for review. [Try the live app](https://agentic-inbox.octaviantocan.com)
+- [**octaviantocan.com**](https://octaviantocan.com), my site and its own design system.
+
+**Before that**
+
+- **Ojin** (2026): agent customization across the editor, API and embedded widget; captions that stay in sync with the voice, across four speech providers.
+- **TwinMind** (2025–2026): lead web engineer at a Sequoia-backed AI memory app, and sole engineer on its React Native app while it grew from 50k to 81k monthly users.
+- **Infima Games** (2021–2026): co-founder and technical lead. Unreal Engine tools used by tens of thousands of developers.
+- **First ship at 16**: a Unity asset that made $35,000 in its first month.
+
+Open to remote senior product and design engineer roles · [octaviantocan.com](https://octaviantocan.com) · [LinkedIn](https://www.linkedin.com/in/octavian-tocan/)
