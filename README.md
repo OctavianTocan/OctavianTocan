@@ -8,7 +8,7 @@ Product & Design Engineer in Zaragoza, Spain. I build products end to end: decid
   <tr>
     <td align="center"><a href="https://github.com/OctavianTocan/Pully"><img src="media/pully.gif" height="240" alt="Pully on an unfolded foldable: tapping pull requests in the Inbox opens each one beside it"></a></td>
     <td align="center"><a href="https://github.com/OctavianTocan/inventory"><img src="media/inventory.gif" height="240" alt="Sharing a link to Inventory: a shooting star brings it in as a legendary find"></a></td>
-    <td align="center"><a href="https://agentic-inbox.octaviantocan.com"><img src="media/agentic-inbox.png" height="240" alt="Agentic Inbox: the agent's summary, mail awaiting approval, and the chat panel"></a></td>
+    <td align="center"><a href="https://agentic-inbox.octaviantocan.com"><img src="media/agentic-inbox.gif" height="240" alt="Agentic Inbox: opening a safety email the agent held for review, its reasoning and proposed reply, then the audit log of what it did"></a></td>
   </tr>
   <tr>
     <td align="center"><b>Pully</b></td>
