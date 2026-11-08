@@ -4,6 +4,19 @@ Product & Design Engineer in Zaragoza, Spain. I build products end to end: decid
 
 **Selected work**
 
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/OctavianTocan/Pully"><img src="media/pully.gif" height="240" alt="Pully on an unfolded foldable: tapping pull requests in the Inbox opens each one beside it"></a></td>
+    <td align="center"><a href="https://github.com/OctavianTocan/inventory"><img src="media/inventory.gif" height="240" alt="Sharing a link to Inventory: a shooting star brings it in as a legendary find"></a></td>
+    <td align="center"><a href="https://agentic-inbox.octaviantocan.com"><img src="media/agentic-inbox.png" height="240" alt="Agentic Inbox: the agent's summary, mail awaiting approval, and the chat panel"></a></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Pully</b></td>
+    <td align="center"><b>Inventory</b></td>
+    <td align="center"><b>Agentic Inbox</b></td>
+  </tr>
+</table>
+
 - [Agentic Inbox](https://agentic-inbox.octaviantocan.com): an AI agent sorts a shared inbox; sensitive mail always waits for a human, and every action can be reviewed and undone.
 - [Pully](https://github.com/OctavianTocan/Pully): a native Android app for reviewing pull requests, with two panes on foldables.
 - [Inventory](https://github.com/OctavianTocan/inventory): a private library for everything you save, where every save feels like loot. An Android app on a Rust server on Cloudflare Workers.
