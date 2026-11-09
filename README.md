@@ -24,8 +24,8 @@ Product & Design Engineer in Zaragoza, Spain. I build products end to end: decid
 
 **Design books**
 
-I keep one Figma file per product, in the same format: foundations, every component and its states, full-screen examples, and the decisions behind them. [See them all](https://www.figma.com/design/7J5LURi7qsBTNerC1IPZya/Octavian-Tocan-%E2%80%94-Design-Books), including the [design system I built at Ojin](https://www.figma.com/design/1AU4IhFEsgeMISWyDniBBk/Ojin-%E2%80%94-Web-Design-Book).
+I keep one Figma file per product, in the same format: foundations, every component and its states, full-screen examples, and the decisions behind them. [See them all](https://designs.magicpath.ai/v1/wildly-shadow-3296), including the [design system I built at Ojin](https://www.figma.com/design/1AU4IhFEsgeMISWyDniBBk/Ojin-%E2%80%94-Web-Design-Book).
 
 Also building [Pawrrtal](https://github.com/OctavianTocan/pawrrtal-ai), my own AI agent workspace.
 
-[Site](https://octaviantocan.com) · [Design books](https://www.figma.com/design/7J5LURi7qsBTNerC1IPZya/Octavian-Tocan-%E2%80%94-Design-Books) · [LinkedIn](https://www.linkedin.com/in/octavian-tocan/) · contact@octaviantocan.com
+[Site](https://octaviantocan.com) · [Design books](https://designs.magicpath.ai/v1/wildly-shadow-3296) · [LinkedIn](https://www.linkedin.com/in/octavian-tocan/) · contact@octaviantocan.com
