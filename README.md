@@ -18,10 +18,14 @@ Product & Design Engineer in Zaragoza, Spain. I build products end to end: decid
 </table>
 
 - [Agentic Inbox](https://agentic-inbox.octaviantocan.com): an AI agent sorts a shared inbox; sensitive mail always waits for a human, and every action can be reviewed and undone.
-- [Pully](https://github.com/OctavianTocan/Pully): a native Android app for reviewing pull requests, with two panes on foldables.
-- [Inventory](https://github.com/OctavianTocan/inventory): a private library for everything you save, where every save feels like loot. An Android app on a Rust server on Cloudflare Workers.
-- [octaviantocan.com](https://octaviantocan.com): my site and its interactive details.
+- [Pully](https://github.com/OctavianTocan/Pully): a native Android app for reviewing pull requests, with two panes on foldables. [Design book](https://www.figma.com/design/caabrz5iXYp6VjPbaRm7wh/Pully-%E2%80%94-Kotlin-UI-Book)
+- [Inventory](https://github.com/OctavianTocan/inventory): a private library for everything you save, where every save feels like loot. An Android app on a Rust server on Cloudflare Workers. [Design book](https://www.figma.com/design/XOmC8KfGVurXlA7iPFXEbe/Inventory-%E2%80%94-Android-Design-Book)
+- [octaviantocan.com](https://octaviantocan.com): my site and its interactive details. [Design book](https://www.figma.com/design/2c2xygZlDW76eHUDO9EvaS/Octavian-Tocan-%E2%80%94-Website-Design-Book)
+
+**Design books**
+
+I keep one Figma file per product, in the same format: foundations, every component and its states, full-screen examples, and the decisions behind them. [See them all](https://www.figma.com/design/7J5LURi7qsBTNerC1IPZya/Octavian-Tocan-%E2%80%94-Design-Books), including the [design system I built at Ojin](https://www.figma.com/design/1AU4IhFEsgeMISWyDniBBk/Ojin-%E2%80%94-Web-Design-Book).
 
 Also building [Pawrrtal](https://github.com/OctavianTocan/pawrrtal-ai), my own AI agent workspace.
 
-[Site](https://octaviantocan.com) · [LinkedIn](https://www.linkedin.com/in/octavian-tocan/) · contact@octaviantocan.com
+[Site](https://octaviantocan.com) · [Design books](https://www.figma.com/design/7J5LURi7qsBTNerC1IPZya/Octavian-Tocan-%E2%80%94-Design-Books) · [LinkedIn](https://www.linkedin.com/in/octavian-tocan/) · contact@octaviantocan.com
